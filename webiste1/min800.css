@@ -1,0 +1,24 @@
+@media(min-width:800px){
+    
+    label span{
+        display: none;
+    }
+    main .content1{
+        margin: 0px auto;
+        padding: 5px 100px;
+    }
+    main .content1 h1{
+        font-size: 30px;
+        font-weight: 700;
+    }
+    main .imges1 {
+       display: flex;
+       flex-direction: row-reverse;
+       gap: 10px;
+    }
+  
+    main .imges1 .img2{
+        width: 400px;
+        padding: 0px 50px;
+    }
+}
